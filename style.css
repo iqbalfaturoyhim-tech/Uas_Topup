@@ -1,0 +1,22 @@
+body.neon {
+  background: url('../img/neon-bg.jpg');
+  background-size: cover;
+  font-family: Arial;
+  color: #00ffff;
+  text-align: center;
+}
+
+.login-box {
+  background: rgba(0,0,0,0.7);
+  padding: 30px;
+  width: 300px;
+  margin: 100px auto;
+  box-shadow: 0 0 20px cyan;
+}
+
+.btn {
+  padding: 10px 20px;
+  background: cyan;
+  color: black;
+  text-decoration: none;
+}
